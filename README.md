@@ -8,7 +8,7 @@ Simple, one proxy proxy discord bot with all the latest features.
 
 Shows the "Get Link" button. Recommended to have send messages set to false for users.
 
-![image](https://github.com/cognetwork-dev/Cog-Dispenser/assets/81875430/290de37f-1b51-43df-9dd4-c8f90b30d534)
+![image](https://github.com/cognetwork-dev/Cog-Dispenser/assets/81875430/ca403703-d892-474d-872e-aa4434e9bf95)
 
 **Admin Panel**
 
