@@ -56,6 +56,6 @@ The ID of your server. See [here](https://www.alphr.com/discord-find-server-id/)
 The ID of a channel where reports from user are sent to. See [here](https://turbofuture.com/internet/Discord-Channel-ID) for more info on how to get the ID.
 
 ## Adding to server.
-To add the bot to your server, go to `https://discord.com/api/oauth2/authorize?client_id=          CLIENT_ID          &permissions=8&scope=bot%20applications.commands` but replace CLIENT_ID with your bots client ID.
+To add the bot to your server, go to `https://discord.com/api/oauth2/authorize?client_id=CLIENT_ID&permissions=8&scope=bot%20applications.commands` but replace CLIENT_ID with your bots client ID.
 
 Have fun, Nebelung
